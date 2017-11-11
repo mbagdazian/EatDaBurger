@@ -1,0 +1,20 @@
+
+
+body {
+  background-color: #ccffff;
+}
+
+img {
+  width: 15%;
+}
+
+.main_font {
+  color: #ff66d9;
+  font-family: 'Indie Flower', cursive;
+}
+
+.tiny_text {
+  font-size: 16px;
+  color: #cc00cc;
+  font-family: 'Indie Flower', cursive;
+}
